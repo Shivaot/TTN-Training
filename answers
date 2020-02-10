@@ -23,3 +23,24 @@ Static keeps the element static and the element disappears when scrolled out of 
 Ans- We need meta tags to store the meta information about the page that can be used for SEO improvement of our page.
 
 7. Explain box model.  
+
+Ans- <div> is used for box modelling of our page where the elements are all in the format of boxes and the box have-
+content
+padding
+margin and various stylings
+
+8. What are the different types of CSS Selectors?  
+
+Ans- Styling provided to the HTML tags are known as the HTML selectors.
+
+9. Define Doctype.
+
+Ans- it is used to give he document type defination of the webpage. It is reflected in the XML document.
+
+10. Explain 5 HTML5 semantic tags.
+
+Ans- <header> - used to give the header to a webpage
+<footer>- used to give the footer to a webpage
+<figure>- used to have figure in our pages
+<figcaption>- used to give caption to our figure
+<article>- used to create article in our pages.
