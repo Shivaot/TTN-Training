@@ -1,0 +1,25 @@
+1. How are inline and block elements different from each other?
+
+Ans-  Inline elements are are displayed in a single line in continuation until stated by the user to not to while block elements gnerally appear in a new line.
+
+2. Explain the difference between visibility:hidden and display:none
+
+Ans- elements whose visibility is hidden do not appear on the page although they are occupying a place on the web page and will be reflected when printing a page. On the oher hand display none ie]s niether visible nor it occupies any space.
+
+3. Explain the clear and float properties.
+
+Ans- Float is used to specify how an element will float with respect to the other while clear will specifies what elements can float beside the cleared element and on which side.
+
+4.  explain difference between absolute, relative,fixed and static.
+
+Ans- absolute makes the element relative and fixed with respec to its ancesstor if any present.
+Relative decides the position according to the nearest ancesstor.
+Fixed fixes the element with respect to the page.
+Static keeps the element static and the element disappears when scrolled out of view.
+
+
+6.  Why do we use meta tags?
+
+Ans- We need meta tags to store the meta information about the page that can be used for SEO improvement of our page.
+
+7. Explain box model.  
