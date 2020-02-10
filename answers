@@ -32,6 +32,13 @@ margin and various stylings
 8. What are the different types of CSS Selectors?  
 
 Ans- Styling provided to the HTML tags are known as the HTML selectors.
+    There are several different types of selectors in CSS.
+
+  CSS Element Selector
+  CSS Id Selector 
+  CSS Class Selector
+  CSS Universal Selector
+  CSS Group Selector
 
 9. Define Doctype.
 
