@@ -1,21 +1,25 @@
 package com.tothenew;
 
-import java.util.HashSet;
-import java.util.Set;
 
 public class Ans2 {
     public static void main(String[] args) {
-        String str = "hey hey I am am repeating";
-        Set<String> stringSet = new HashSet<>();
-        int counter = 0;
-        for (String ch: str.split(" ")){
-            if (!stringSet.contains(ch)){
-                stringSet.add(ch);
-            } else {
-                counter++;
-                System.out.println(ch);
+        String str = "hey hey i am am repeating";
+        int count;
+
+        String words[] = str.split(" ");
+
+        System.out.println("Duplicate words in a given string : ");
+        for(int i = 0; i < words.length; i++) {
+            count=1;
+            for(int j = i+1; j < words.length; j++) {
+                if(words[i].equals(words[j])) {
+                    count++;
+                    words[j] = "";
+                }
             }
+            if(count > 1 && words[i] != "")
+                System.out.println(words[i]);
         }
-        System.out.println("Total number of repeating words are: " + counter);
     }
 }
+
