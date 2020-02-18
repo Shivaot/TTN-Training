@@ -2,11 +2,23 @@ package com.tothenew;
 
 public class Ans6 {
     public static void main(String[] args) {
-        int[] arr = new int[]{1,1,2,2,7,7,5};
-        int result = 0;
-        for (int i=0;i < arr.length;i++) {
-            result ^= arr[i];
+        int a =0;
+        int b =1;
+        int c = b/a;
+        try{
+            System.out.println(c);
         }
-        System.out.println(result);
+        catch (ArithmeticException e){
+            e.printStackTrace();
+        }
+        catch (NullPointerException e){
+            e.printStackTrace();
+        }
+        catch (Exception e){
+            e.printStackTrace();
+        }
+        finally {
+            System.out.println("Must error");
+        }
     }
 }

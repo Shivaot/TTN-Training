@@ -1,21 +1,21 @@
 package com.tothenew;
 
-import java.util.HashSet;
-import java.util.Set;
-
 public class Ans2 {
     public static void main(String[] args) {
-        String str = "hey hey I am am repeating";
-        Set<String> stringSet = new HashSet<>();
-        int counter = 0;
-        for (String ch: str.split(" ")){
-            if (!stringSet.contains(ch)){
-                stringSet.add(ch);
-            } else {
-                counter++;
-                System.out.println(ch);
+        String sampleText = "edcba";
+        char temp;
+        char[] sampleTextArray = sampleText.toCharArray();
+        for (int i=0;i<sampleTextArray.length;i++){
+            for (int j=i+1;j<sampleTextArray.length;j++){
+                if (sampleTextArray[i] > sampleTextArray[j]){
+                    temp = sampleTextArray[i];
+                    sampleTextArray[i] = sampleTextArray[j];
+                    sampleTextArray[j] = temp;
+                }
             }
         }
-        System.out.println("Total number of repeating words are: " + counter);
+        for (int i=0;i<sampleTextArray.length;i++){
+            System.out.println(sampleTextArray[i]);
+        }
     }
 }
