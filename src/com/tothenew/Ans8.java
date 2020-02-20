@@ -1,7 +1,5 @@
 package com.tothenew;
 
-import java.util.Stack;
-
 class SpecialStack {
     private int array[];
     private static int top;
@@ -70,11 +68,11 @@ class SpecialStack {
 public class Ans8 {
     public static void main(String[] args) {
         SpecialStack specialStack = new SpecialStack(10);
-        specialStack.push(3);
-        specialStack.push(5);
+        specialStack.push(33);
+        specialStack.push(53);
         specialStack.getMin();
-        specialStack.push(2);
-        specialStack.push(1);
+        specialStack.push(21);
+        specialStack.push(11);
         specialStack.getMin();
         specialStack.pop();
         specialStack.getMin();
