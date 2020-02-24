@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7dace582-0cf4-41a5-b7a5-fb484985442b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java8LambdaAssgn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java8LambdaAssgn/META-INF/Java8LambdaAssgn.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java8LambdaAssgn/com/tothenew/Ans1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java8LambdaAssgn/com/tothenew/Ans10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java8LambdaAssgn/com/tothenew/Ans11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java8LambdaAssgn/com/tothenew/Ans12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java8LambdaAssgn/com/tothenew/Ans2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java8LambdaAssgn/com/tothenew/Ans4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java8LambdaAssgn/com/tothenew/Ans6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java8LambdaAssgn/com/tothenew/Ans7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java8LambdaAssgn/com/tothenew/Ans8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java8LambdaAssgn/com/tothenew/Ans9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java8LambdaAssgn/com/tothenew/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java8LambdaAssgn/com/tothenew/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java8LambdaAssgn/com/tothenew/Ques3/Add.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java8LambdaAssgn/com/tothenew/Ques3/Mul.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java8LambdaAssgn/com/tothenew/Ques3/Sub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java8LambdaAssgn/com/tothenew/Ques3/UsingInstance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java8LambdaAssgn/com/tothenew/Ques3/UsingStatic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java8LambdaAssgn/com/tothenew/Ques5/ConsumerFunctional.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java8LambdaAssgn/com/tothenew/Ques5/FunctionFunctional.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java8LambdaAssgn/com/tothenew/Ques5/PredicateFunctional.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java8LambdaAssgn/com/tothenew/Ques5/SupplierFunctional.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java8LambdaAssgn/com/tothenew/Take2ReturnOne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java8LambdaAssgn/com/tothenew/concat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java8LambdaAssgn/com/tothenew/greaterThan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java8LambdaAssgn/com/tothenew/iEmployee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java8LambdaAssgn/com/tothenew/incByOne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java8LambdaAssgn/com/tothenew/justAInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java8LambdaAssgn/com/tothenew/justAnotherInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java8LambdaAssgn/com/tothenew/myAnotherInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java8LambdaAssgn/com/tothenew/myInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java8LambdaAssgn/com/tothenew/toUpperCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tothenew/Ans1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tothenew/Ans10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tothenew/Ans11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tothenew/Ans12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tothenew/Ans2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tothenew/Ans4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tothenew/Ans6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tothenew/Ans7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tothenew/Ans8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tothenew/Ans9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tothenew/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tothenew/Ques3/UsingInstance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tothenew/Ques3/UsingStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tothenew/Ques5/ConsumerFunctional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tothenew/Ques5/FunctionFunctional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tothenew/Ques5/PredicateFunctional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tothenew/Ques5/SupplierFunctional.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YFORbzk5CyvoGD0TZPCkV0sgV6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Ans12">
+    <configuration name="Ans10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tothenew.Ans10" />
+      <module name="Java8LambdaAssgn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tothenew.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ans11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tothenew.Ans11" />
+      <module name="Java8LambdaAssgn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tothenew.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ans12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tothenew.Ans12" />
+      <module name="Java8LambdaAssgn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tothenew.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ans8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tothenew.Ans8" />
+      <module name="Java8LambdaAssgn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tothenew.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ans9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tothenew.Ans9" />
+      <module name="Java8LambdaAssgn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tothenew.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Ans8" />
+      <item itemvalue="Application.Ans9" />
+      <item itemvalue="Application.Ans10" />
+      <item itemvalue="Application.Ans11" />
+      <item itemvalue="Application.Ans12" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ans12" />
+        <item itemvalue="Application.Ans11" />
+        <item itemvalue="Application.Ans10" />
+        <item itemvalue="Application.Ans9" />
+        <item itemvalue="Application.Ans8" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7dace582-0cf4-41a5-b7a5-fb484985442b" name="Default Changelist" comment="" />
+      <created>1582534868690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582534868690</updated>
+      <workItem from="1582534871934" duration="3086000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="491" y="115" width="455" height="560" key="#com.intellij.ide.util.MemberChooser" timestamp="1582537331068">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="491" y="115" width="455" height="560" key="#com.intellij.ide.util.MemberChooser/0.25.1366.743@0.25.1366.743" timestamp="1582537331068" />
+    <state x="435" y="25" width="476" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582536613648">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="435" y="25" width="476" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.25.1366.743@0.25.1366.743" timestamp="1582536613648" />
+    <state width="1324" height="206" key="GridCell.Tab.0.bottom" timestamp="1582538229645">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state width="1324" height="206" key="GridCell.Tab.0.bottom/0.25.1366.743@0.25.1366.743" timestamp="1582538229645" />
+    <state width="1324" height="206" key="GridCell.Tab.0.center" timestamp="1582538229645">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state width="1324" height="206" key="GridCell.Tab.0.center/0.25.1366.743@0.25.1366.743" timestamp="1582538229645" />
+    <state width="1324" height="206" key="GridCell.Tab.0.left" timestamp="1582538229644">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state width="1324" height="206" key="GridCell.Tab.0.left/0.25.1366.743@0.25.1366.743" timestamp="1582538229644" />
+    <state width="1324" height="206" key="GridCell.Tab.0.right" timestamp="1582538229645">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state width="1324" height="206" key="GridCell.Tab.0.right/0.25.1366.743@0.25.1366.743" timestamp="1582538229645" />
+  </component>
+</project>
