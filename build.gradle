@@ -17,6 +17,15 @@ jar {
     }
 }
 
+sourceSets{
+    main {
+        java {
+            srcDirs =  ['src/main/*']
+        }
+    }
+}
+
+
 apply plugin : 'show-date-plugin'
 
 group 'com.tothenew'
