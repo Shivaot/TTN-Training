@@ -24,7 +24,7 @@ sourceSets{
         }
     }
 }
-
+// srcDirs = ['src/java','src/java1','src/java2']
 
 apply plugin : 'show-date-plugin'
 
