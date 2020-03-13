@@ -55,8 +55,8 @@ public class SpringDataJpa2Application {
 
 //      ans 2
          List<Object[]> objects =employeeRep.helpForAnswerTwo();
-         for (Object[] e: employeeList) {
-          employeeRep.queryForAnswerTwo((String) e[0],25000);
+         for (Object[] e: objects) {
+          employeeRep.queryForAnswerTwo(String.valueOf(e[0]),25000);
          }
      System.out.println(employeeRep.findAll());
 
